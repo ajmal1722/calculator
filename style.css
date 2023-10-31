@@ -1,0 +1,7 @@
+.container{
+    background: gray;
+}
+input {
+    width: 85%;
+    pointer-events: none;
+}
